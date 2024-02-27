@@ -1,57 +1,38 @@
-# Copilot Deep Dive - lab setup
+# GitHub Copilot Deep Dive - No Fluff Just Stuff
 
-These instructions will guide you through configuring a GitHub Codespaces environment that you can use to run the course labs. 
-If you prefer and if you know one of the other IDEs supported by Copilot, you can use that. But the instructions will reference the codespace version.
+## Details
 
-These steps **must** be completed prior to starting the actual labs.
+```
+Event:	GitHub Copilot Deep Dive
+Date:	Tue - February 27, 2024
+Start Time:	11:00 AM Eastern
+Location:	Online
+Name on Ticket:	Rocky Forehand
+Email:	rforehand@omig.com
+```
 
-## 1. Ensure that you are signed up for Copilot access. 
+### Schedule
 
-If not, when signed into GitHub, click on your profile picture/icon in the upper right and either select [Copilot](https://github.com/github-copilot/signup) 
+- 11:00 AM EST - 12:30 PM - Session 1
+- 12:30 PM - 12:45 PM - Break
+- 12:45 PM - 2:15 PM - Session 2
+- 2:15 PM - 2:45 PM - Meal Break
+- 2:45 PM - 4:15 PM - Session 3
+- 4:15 PM - 4:30 PM - Break
+- 4:30 PM - 6:00 PM - Session 4
 
-![Signing up for Copilot](./images/cdd70.png?raw=true "Signing up for Copilot")
+### Requirements
 
-**OR** select [Settings->Copilot](https://github.com/settings/copilot) and sign up.
+```
+Please be prepared for the workshop by following these instructions before the event.
 
-![Signing up for Copilot](./images/cdd32.png?raw=true "Signing up for Copilot")
+Attendees will need a GitHub account, a browser, and a subscription to the free Copilot trial.
 
-You can also find help there for using Copilot in other supported IDEs, set the switch for whether or not to allow matching public code suggestions, etc.
+IMPORTANT NOTE: In order to do the labs for this course, you must have a GitHub Copilot subscription. If you do not, you can log into GitHub, then go to https://github.com/settings/copilot and sign up (start free trial) before the course.
+```
 
-![Using Copilot options](./images/cdd31.png?raw=true "Using Copilot options")
+### Links
 
-## 2. Create your own fork of the repository for these labs
-
-- Ensure that you have created a repository by forking the [skillrepos/copilot-dd](https://github.com/skillrepos/copilot-dd) project as a template into your own GitHub area.
-- You do this by navigating to the repo, clicking the `Fork` button in the upper right portion of the main project page and following the steps to create a copy in **your-github-userid/copilot-dd** .
-
-![Forking repository](./images/cdd28.png?raw=true "Forking the repository")
-![Forking repository](./images/cdd29.png?raw=true "Forking the repository")
-
-## 3. Configure your codespace
-
-In your forked repository, start a new codespace.
-
-- Click the `Code` button on your repository's landing page.
-- Click the `Codespaces` tab.
-- Click `Create codespaces on main` to create the codespace.
-
-**This will run for several minutes while it gets everything ready.**
-  
-- After the codespace has initialized there will be a terminal present.
-
-![Starting codespace](./images/cdd30.png?raw=true "Starting your codespace")
-
-This will take a while to run.
-
-## 4. Open the labs
-
-After the codespace has started, open the labs document by going to the file tree on the left, find the file named **codespace-labs.md**, right-click on it, and open it with the **Preview** option.)
-
-![Labs doc preview in codespace](./images/cdd33.png?raw=true "Labs doc preview in codespace")
-
-This will open it up in a tab above your terminal. Then you can follow along with the steps in the labs. 
-Any command in the gray boxes is either code intended to be run in the console or code to be updated in a file.
-
-Labs doc: [Copilot Deep Dive Labs](codespace-labs.md)
-
-
+- [Event Details](https://nofluffjuststuff.com/virtual-workshops/884/github_copilot_deep_dive)
+- [My Page](https://nofluffjuststuff.com/n/ticket/view?trainingUserId=12675&userId=92897&x=y)
+- [Training Repo](https://github.com/skillrepos/copilot-dd)
