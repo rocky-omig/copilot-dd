@@ -1,5 +1,7 @@
 # GitHub Copilot Deep Dive - No Fluff Just Stuff
 
+This repo is a fork of a repo from No Fluff Just Stuff (link at the bottom of this page). It is a training repo for the GitHub Copilot Deep Dive workshop with the "labs" complete.
+
 ## Details
 
 ```
